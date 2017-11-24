@@ -8,9 +8,4 @@ const routingTable = {
  url: '../htdocs/assets/css/styles.css',
  type: 'text/css'
  },
- "/sokoban.js": {
- "url": "../htdocs/sokoban.js",
- "type": "image/js"
-
- }
  };
