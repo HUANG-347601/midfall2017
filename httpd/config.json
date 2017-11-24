@@ -1,4 +1,4 @@
-const routingTable = {
+{
  '/': {
  url: '../htdocs/index.html',
  type: 'text/html'
@@ -7,5 +7,5 @@ const routingTable = {
  '/styles.css': {
  url: '../htdocs/assets/css/styles.css',
  type: 'text/css'
- },
+ }
  };
