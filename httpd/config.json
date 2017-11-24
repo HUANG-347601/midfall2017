@@ -10,7 +10,7 @@ const routingTable = {
  },
  "/sokoban.js": {
  "url": "../htdocs/sokoban.js",
- "type": "image/png"
+ "type": "image/js"
 
  }
  };
